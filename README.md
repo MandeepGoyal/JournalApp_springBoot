@@ -19,6 +19,7 @@ The project is built upon several key technologies and libraries, including:
 - **Maven**: Manages project dependencies.
 - **Spring Security**: Handles authentication and authorization.
 - **Spring Data JPA**: Facilitates database operations.
+- **Redis**: Handles caching for quick responses.
 
 For testing, the following technologies were employed:
 
